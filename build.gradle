@@ -13,8 +13,10 @@ repositories {
 
 dependencies {
     testImplementation (
-            "com.codeborne:selenide:5.25.0",
-            "org.junit.jupiter:junit-jupiter-api:5.8.0")
+            "com.codeborne:selenide:6.17.2",
+            "org.junit.jupiter:junit-jupiter-api:5.8.0",
+            "io.github.bonigarcia:webdrivermanager:5.3.3"
+    )
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:5.8.0"
 }
 

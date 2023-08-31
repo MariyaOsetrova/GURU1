@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GoogleSearchTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-08T16:44:33" hostname="YRS0013" time="10.341">
+<testsuite name="GoogleSearchTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-31T16:30:18" hostname="YRS0013" time="7.055">
   <properties/>
-  <testcase name="selenideSearchTest()" classname="GoogleSearchTests" time="10.341"/>
+  <testcase name="selenideSearchTest()" classname="GoogleSearchTests" time="7.055"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 24411
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-мая 08, 2023 7:44:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+авг. 31, 2023 7:30:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
 ]]></system-err>
 </testsuite>
